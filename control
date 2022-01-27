@@ -1,0 +1,9 @@
+Package: com.saed.wigettest
+Name: WidgetTest
+Depends: com.opa334.ccsupport
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome Control Center module!
+Maintainer: SAED
+Author: SAED
+Section: Control Center (Modules)
